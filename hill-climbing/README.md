@@ -6,10 +6,11 @@
 
 ### Instructions
 
-Open `Hill_Climbing.ipynb` to see an implementation of hill climbing with adaptive noise scaling with OpenAI Gym's Cartpole environment.
+Hill climbing의 구현부분을 볼려면 `Hill_Climbing.ipynb`를 열어보자.
+여기에는 OpenAI Gym's Cartpole environment에서 adaptive noise scaling을 적용.
 
-Try to change the parameters in the notebook, to see if you can get the agent to train faster!
+만약 agent가 train을 빠르게 하도록 하려면 notebook에서 parameters를 변경하라.
 
-### Results
+### 결과
 
 ![Trained Agent][image1]
